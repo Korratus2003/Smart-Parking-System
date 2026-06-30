@@ -1,0 +1,14 @@
+# Core Vision & AI
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0
+
+# MQTT & Database
+paho-mqtt>=1.6.1
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+
+# Web Dashboard (FastAPI)
+fastapi>=0.100.0
+uvicorn>=0.22.0
+jinja2>=3.1.2

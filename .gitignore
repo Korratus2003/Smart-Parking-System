@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# PlatformIO / ESP32
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+
+# Docker data
+docker/postgres/data/
+docker/mosquitto/data/
+docker/mosquitto/log/
+
+# System / IDE
+.DS_Store
+.vscode/
+.idea/
+*.env
